@@ -1,33 +1,14 @@
 # Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
 *.env
 
 
 # Ignore config with secrets
 config.py
 
-
 # Virtual environment
 venv/
-env/
-ENV/
 
 # Database files
 *.sqlite3
 *.db
-
-# IDE/editor files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Logs
-*.log
-
-# OS files
-.DS_Store
-Thumbs.db
