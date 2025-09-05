@@ -1,5 +1,3 @@
-Here’s a simple **README document** version formatted as a clean text file you can submit:
-
 # Capstone Project: E-commerce Store API
 
 ## Overview
